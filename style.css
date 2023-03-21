@@ -1,0 +1,83 @@
+body{
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+.music {
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.principal {
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.dog-div{
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.button-div {
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.button {
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.button-no {
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.button-no:hover {
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    cursor: grab;
+}
+.button:hover {
+    background-color: #dba7ce;
+    color: #0f0f0f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    cursor: grab;
+}
+
